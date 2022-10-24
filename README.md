@@ -1,9 +1,9 @@
 # seleniumwebscraping
 
--Download and run through your apps (Visual Studio Code, Jupyter etc)
--Need to declare the new directory (for selenium)
--Need to install chromedriver (same version with the browser) (for selenium)
--To check your browser version, open chrome(if you're using chrome), click 3 dots on the right top, click Help and click About Google Chrome
+-Download and run through your apps (Visual Studio Code, Jupyter etc)-
+-Need to declare the new directory (for selenium)-
+-Need to install chromedriver (same version with the browser) (for selenium)-
+-To check your browser version, open chrome(if you're using chrome), click 3 dots on the right top, click Help and click About Google Chrome-
 
 # Job scraping using selenium using various number of website #
 File name:-
