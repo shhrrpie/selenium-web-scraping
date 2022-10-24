@@ -86,7 +86,7 @@ try:
         job_added_list.append(Job_details)
         print("Job Added No.:", len(job_added_list))
     
-    #Save data into CSV
+    # Save data into CSV
     df = pd.DataFrame(job_added_list)
     df.to_csv('Acronis.csv',
               index=False, encoding='utf-8')
