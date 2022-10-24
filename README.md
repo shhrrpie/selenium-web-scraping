@@ -1,4 +1,4 @@
-# seleniumwebscraping
+# Web Scraping
 
 -Download and run through your apps (Visual Studio Code, Jupyter etc)-
 -Need to declare the new directory (for selenium)-
@@ -11,8 +11,8 @@ File name:-
 2. rev_media_job_list.py
 3. acronis_job_list.py
 
-* To help job seeker in finding a job
-* To help people look which job is on demand
+*To help job seeker in finding a job
+*To help people look which job is on demand
 
 # University name scraping using response #
 File name:-
@@ -26,7 +26,7 @@ File name:-
 File name:-
 1. gender_nationality_age_identifier.py
 
-* To help any parents in naming their children by checking whether it is suitable or not based on the demanded country
-* To help user know where people (stranger) is coming from by using their name
-* To help people to decide whether provided name is men or women
+*To help any parents in naming their children by checking whether it is suitable or not based on the demanded country
+*To help user know where people (stranger) is coming from by using their name
+*To help people to decide whether provided name is men or women
 
