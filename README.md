@@ -14,7 +14,7 @@ File name:-
 *To help job seeker in finding a job
 *To help people look which job is on demand
 
-# University name scraping using response #
+# Scraping university name using response #
 File name:-
 1. university_list.ipynb
 
